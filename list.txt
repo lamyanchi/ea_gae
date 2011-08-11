@@ -1,0 +1,11 @@
+http://earthship.org/templates/rt_afterburner_j15/favicon.ico
+http://earthship.org/components/com_jomcomment/busy.gif
+http://earthship.org/modules/mod_fpss/mod_fpss/templates/Movies/template_css.php?w=720&h=385&sw=200
+http://earthship.org/modules/mod_fpss/mod_fpss/templates/Movies/template_css_ie.css
+http://earthship.org/components/com_fpss/images/school_home_1.jpg
+http://earthship.org/components/com_fpss/images/earthship_books_1_1.jpg
+http://earthship.org/components/com_fpss/images/rentals_phoenix_living.jpg
+http://earthship.org/components/com_fpss/images/wyoming2.jpg
+http://earthship.org/components/com_fpss/images/workshops.jpg
+http://earthship.org/components/com_fpss/images/guatemala.jpg
+http://earthship.org/templates/rt_afterburner_j15/images/light4.png
